@@ -1,0 +1,7 @@
+
+GLV80_LAYER(ColemakDH,
+     &kp GRAVE         &kp Q         &kp W         &kp F               &kp P  &kp B,                                                                                                                      &kp J          &kp L           &kp U          &kp Y       &kp SEMI      &kp MINUS,
+    &sft_capsw  &LeftPinky A  &LeftRingy R  &LeftMiddy S        &LeftIndex T  &kp G,                                                                                                                      &kp M  &RightIndex N   &RightMiddy E  &RightRingy I  &RightPinky O        &kp SQT,
+         &none         &kp Z         &kp X         &kp C               &kp D  &kp V,          &thumb FUNC ESC       &parang_left         &parang_right,  &kp _HOME        &kp _END   &thumb MAG ENTER,  &kp K          &kp H       &kp COMMA        &kp DOT       &kp FSLH     &sft_capsw,
+  &magic MAG 0     &kp EQUAL      &kp LBKT      &kp RBKT     &thumb MSE BSLH,         &thumb CURSOR BACKSPACE  &thumb NUM DELETE  &thumb TYPING INSERT, &tog TYPING  &thumb MSE TAB     &spc SYM SPACE,             &kp PG_DN     &msc MSC_DN    &msc MSC_UP       &kp PG_UP  &magic MAG 0 
+)
